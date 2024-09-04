@@ -11,7 +11,7 @@
 }
 
 .main_skill{
-    font-size: 0.9rem;
+    font-size: 0.8rem;
 }
 
 .cv_section{
@@ -44,5 +44,5 @@
 .center_content {
     display: flex;
     margin-bottom: 20px;
-    font-size: 1.3rem;
+    font-size: 1.0rem;
 }
