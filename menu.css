@@ -1,0 +1,27 @@
+.nav{
+    display: flex;
+    position: absolute;
+    align-items: center;
+    height: 7rem;
+    top: 0;
+    z-index: 200;
+    padding: 0 4rem;
+}
+
+.nav2{
+    align-items: center;
+    text-align: center;
+    padding: 50px;
+}
+
+.menu_nav{
+    margin:0 1rem;
+    font-size: 1.5rem;
+    color: rgba(0, 0, 0, 0.61);
+    text-decoration: none;
+}
+
+.menu_nav:hover{
+    transition: all 0.3s ease;
+    box-shadow: 5px 5px 3px 0 aquamarine;
+}
